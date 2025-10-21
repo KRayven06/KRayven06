@@ -26,7 +26,7 @@ A Computer Science Engineering student passionate about building tech that makes
 ---
 
 ## 🧰 Tech Stack
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,nodejs,express,figma,git,github,firebase,vscode" alt="tech icons" />
+<div align="center"><img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,nodejs,express,figma,git,github,firebase,vscode" alt="tech icons" /></div>
 
 - Core languages
   - C & C++ for problem-solving, DSA, and system-level programming
