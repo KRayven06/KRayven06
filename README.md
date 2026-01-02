@@ -64,11 +64,13 @@ A Computer Science Engineering student passionate about building tech that makes
 
 ---
 
-## 🏆 GitHub Trophies:
+## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KRayven06&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4" />
-</p>
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KRayven06&theme=gruvbox&no-frame=true&margin-w=4)
+
+</div>
 
 ---
 <p align="center">
