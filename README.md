@@ -6,7 +6,7 @@ A Computer Science Engineering student passionate about building tech that makes
 
 ---
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=KRayven06&theme=gruvbox&hide_border=true" />
@@ -14,7 +14,7 @@ A Computer Science Engineering student passionate about building tech that makes
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" />
